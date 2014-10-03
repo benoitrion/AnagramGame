@@ -1,0 +1,40 @@
+Sat Aug 23 10:43:22 CEST 2014 - /127.0.0.1 : Connexion.
+Sat Aug 23 10:43:22 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est alerl
+Sat Aug 23 10:43:48 CEST 2014 - /127.0.0.1 :  'boire' n'est pas la solution
+Sat Aug 23 10:43:59 CEST 2014 - /127.0.0.1 :  'manger' n'est pas la solution
+Sat Aug 23 10:44:07 CEST 2014 - /127.0.0.1 : Le client a trouvé la solution avec le mot 'aller'
+Sat Aug 23 10:44:08 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est renmag
+Sat Aug 23 10:44:10 CEST 2014 - /127.0.0.1 : Déconnexion.
+
+Sat Aug 23 12:15:19 CEST 2014 - /127.0.0.1 : Connexion.
+Sat Aug 23 12:15:19 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est tbieno
+Sat Aug 23 12:15:31 CEST 2014 - /127.0.0.1 : Connexion.
+Sat Aug 23 12:15:31 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est tobein
+Sat Aug 23 12:15:41 CEST 2014 - /127.0.0.1 :  'ezffe' n'est pas la solution
+Sat Aug 23 12:15:43 CEST 2014 - /127.0.0.1 : Déconnexion.
+
+Mon Aug 25 00:13:30 CEST 2014 - /127.0.0.1 : Connexion.
+Mon Aug 25 00:13:30 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est gremna
+Mon Aug 25 00:13:43 CEST 2014 - /127.0.0.1 :  'efzef' n'est pas la solution
+Mon Aug 25 00:13:50 CEST 2014 - /127.0.0.1 : Déconnexion.
+
+Mon Aug 25 00:17:21 CEST 2014 - /127.0.0.1 : Connexion.
+Mon Aug 25 00:17:21 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est irbeo
+Mon Aug 25 00:17:31 CEST 2014 - /127.0.0.1 : Connexion.
+Mon Aug 25 00:17:31 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est erlal
+Mon Aug 25 00:17:39 CEST 2014 - /127.0.0.1 :  'ezef' n'est pas la solution
+Mon Aug 25 00:17:45 CEST 2014 - /127.0.0.1 : Le client a trouvé la solution avec le mot 'aller'
+Mon Aug 25 00:17:46 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est binote
+Mon Aug 25 00:17:48 CEST 2014 - /127.0.0.1 : Déconnexion.
+
+Mon Aug 25 01:33:46 CEST 2014 - /127.0.0.1 : Connexion.
+Mon Aug 25 01:33:46 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est oeibnt
+Mon Aug 25 01:33:58 CEST 2014 - /127.0.0.1 : Déconnexion.
+
+Fri Oct 03 12:47:43 CEST 2014 - /127.0.0.1 : Connexion.
+Fri Oct 03 12:47:44 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est itnoeb
+Fri Oct 03 12:48:03 CEST 2014 - /127.0.0.1 :  'ben' n'est pas la solution
+Fri Oct 03 12:48:13 CEST 2014 - /127.0.0.1 : Le client a trouvé la solution avec le mot 'benoit'
+Fri Oct 03 12:48:14 CEST 2014 - /127.0.0.1 : Nouvelle partie, l'anagrame a trouver est larel
+Fri Oct 03 12:48:16 CEST 2014 - /127.0.0.1 : Déconnexion.
+
